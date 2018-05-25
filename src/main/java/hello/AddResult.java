@@ -9,7 +9,7 @@ public class AddResult {
         this.one = numberOne;
 		this.two = numberTwo;
     }
-	/*
+	
     public Integer getOne() {
         return one;
     }
@@ -17,7 +17,7 @@ public class AddResult {
     public Integer getTwo() {
         return two;
     }
-	*/
+	
 	
 	public Integer getSum(){
 		return (one+two);
